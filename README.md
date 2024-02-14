@@ -2,7 +2,7 @@
 
 The main file is the "kitt_g_voice.py"
 
-The "run_script.bat" file is for quickly running the application in your terminal without having to type all of the cmds over and over each time you run the file.  Keep this file in the same folder as the "kitt_g_voice.py" file.  Make sure to rename "myenv" to the actual name of your python environment.
+The batch file, "run_script.bat" makes it easier to run the Python program without having to type a bunch of commands into the Command Prompt. It asks you to activate your special workspace, tells the computer where to find your files, and then runs the program for you. This saves you time and makes things simpler because you don't have to remember or type all the commands yourself.  Keep this file in the same folder as the "kitt_g_voice.py" file.  Make sure to rename "myenv" to the actual name of your python environment.  You can add a shortcut to your desktop and even change the icon for the shortcut.  This allows you to run the script right from the desktop.
 
 The "system_message.txt" file is where you can give the model custom instructions also known as a system prompt or pre-prompt.  Keep this file in the same folder also.
 
