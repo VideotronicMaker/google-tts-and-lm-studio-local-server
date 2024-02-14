@@ -1,4 +1,4 @@
-Google Cloud Setup for Text-to-Speech
+# Google Cloud Setup for Text-to-Speech
 
 For the Google Cloud Text-to-Speech functionality to work within this script, please complete the following:
 
