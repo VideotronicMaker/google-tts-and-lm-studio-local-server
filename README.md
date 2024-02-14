@@ -42,6 +42,10 @@ Security Reminder:
 
 The JSON key file holds sensitive information. Never commit it to public version control like GitHub.
 Consider exploring more secure credential management strategies found in the Google Cloud documentation for production environments.
+
+Alternatively you can also use the batch file provided.
+
+
 Need Further Help?
 
 Refer to Google Cloud's documentation for  more assistance:
