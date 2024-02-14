@@ -1,6 +1,6 @@
 # Basic Instructions
 
-The "main file" is the kitt_g_voice.py
+The main file is the "kitt_g_voice.py"
 
 The "run_script.bat" file is for quickly running the application in your terminal without having to type all of the cmds over and over each time you run the file.
 
