@@ -1,4 +1,4 @@
-# Basic
+# Basic Instructions
 
 The "main file" is the kitt_g_voice.py
 
