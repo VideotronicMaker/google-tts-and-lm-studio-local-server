@@ -15,5 +15,5 @@ set CONDA_EXE=C:\Users\YourUserName\Anaconda3\Scripts\conda.exe
 %CONDA_EXE% activate python
 
 echo Running Python script...
-%YOUR_ENV_NAME% sparkle_g_voice.py
+%YOUR_ENV_NAME% kitt_g_voice.py
 pause
