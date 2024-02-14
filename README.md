@@ -2,9 +2,11 @@
 
 The main file is the "kitt_g_voice.py"
 
-The "run_script.bat" file is for quickly running the application in your terminal without having to type all of the cmds over and over each time you run the file.
+The "run_script.bat" file is for quickly running the application in your terminal without having to type all of the cmds over and over each time you run the file.  Keep this file in the same folder as the "kitt_g_voice.py" file.
 
-The "system_message.txt" file is where you can give the model custom instructions also known as a system prompt or pre-prompt.
+The "system_message.txt" file is where you can give the model custom instructions also known as a system prompt or pre-prompt.  Keep this file in the same folder also.
+
+Put your GOOGLE_APPLICATION_CREDENTIALS file somewhere else for security.  Copy the path to wherever you put it and pste the path into the "run_script.bat" file.
 
 
 # Google Cloud Setup for Text-to-Speech
