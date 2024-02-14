@@ -2,7 +2,7 @@
 
 The main file is the "kitt_g_voice.py"
 
-The "run_script.bat" file is for quickly running the application in your terminal without having to type all of the cmds over and over each time you run the file.  Keep this file in the same folder as the "kitt_g_voice.py" file.
+The "run_script.bat" file is for quickly running the application in your terminal without having to type all of the cmds over and over each time you run the file.  Keep this file in the same folder as the "kitt_g_voice.py" file.  Make sure to rename the "yourenvnamehere" part to the actual name of your condo environment.
 
 The "system_message.txt" file is where you can give the model custom instructions also known as a system prompt or pre-prompt.  Keep this file in the same folder also.
 
