@@ -1,7 +1,7 @@
 @echo off
 
 echo Activating Conda environment...
-call conda activate python
+call conda activate yourenvnamehere
 
 echo Changing directory... 
 cd \path\to\your folder
