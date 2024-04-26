@@ -8,6 +8,8 @@ The batch file, `run_script.bat`, simplifies running the Python program without 
 
 Please note that the method for starting the local server provided in this repository may not work on all systems or operating systems due to variations in dependencies and system configurations. Additionally, changes or updates to the OpenAI Whisper and or Openai libraries may affect the functionality of the code provided here.Users are encouraged to be aware of potential issues and to consult their GPT (Generative Pre-trained Transformer) for assistance when encountering problems. The initial code in this repository was developed with the help of ChatGPT, and users are encouraged to utilize similar resources for troubleshooting and finding solutions to any issues they may encounter.Furthermore, it's important to regularly check and update the requirements.txt file to ensure compatibility with different versions of dependencies.
 
+The code provided by LM Studio may in fact work for some users and users are encouraged to try that as the first option.
+
 The `system_message.txt` file is used for providing custom instructions to the model, known as a system prompt or pre-prompt. Keep this file in the same folder.
 
 Store your `GOOGLE_APPLICATION_CREDENTIALS` file securely. Copy the file path and paste it into the `run_script.bat` file.
