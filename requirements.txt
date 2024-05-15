@@ -1,0 +1,8 @@
+pyaudio==0.2.11
+whisper==1.0.0
+openai==0.10.2
+keyboard==0.13.5
+tk  # Typically part of the Python standard library, versioning not needed.
+google-cloud-texttospeech==2.7.0
+playsound==1.2.2
+pydub==0.25.1
