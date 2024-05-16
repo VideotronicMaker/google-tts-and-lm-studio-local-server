@@ -4,6 +4,15 @@ The primary file to execute is `kitt_g_voice.py`.
 
 The batch file, `run_script.bat`, simplifies running the Python program without the need for multiple Command Prompt commands. It prompts you to activate your designated workspace, sets the file paths, and then executes the program. This saves time and simplifies the process, eliminating the need to manually enter commands. Keep both files in the same folder as `kitt_g_voice.py`. Make sure to rename `"myenv"` in the batch file to match the name of your Python environment. You can create a desktop shortcut for quick access and customize its icon for easier identification.
 
+## Project Continuation Notice
+
+This project adds additional features to the local inference server setup. To understand how to set up and initially run the local inference server, please refer to the original repository:
+
+[LM Studio Local Server](https://github.com/VideotronicMaker/LM_Studio_Local_Server)
+
+The previous project provides detailed instructions on the initial setup and running of the local inference server, which is essential before implementing the new features in this current project.
+
+
 # Project Setup Instructions
 
 ## Requirements
